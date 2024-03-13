@@ -120,6 +120,10 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
+![image](https://github.com/RANJEETH17/lifecyclemethods/assets/120718823/4696a1af-f5c9-439e-a9d0-cf4a493d1a3a)
+![image](https://github.com/RANJEETH17/lifecyclemethods/assets/120718823/27a9dcac-82a9-4453-9a7e-43edad2778ef)
+
+
 ![image](https://github.com/RANJEETH17/lifecyclemethods/assets/120718823/7cb84140-db73-4dbd-adbb-54336206f7e9)
 ![image](https://github.com/RANJEETH17/lifecyclemethods/assets/120718823/33e1965f-5705-4f1d-9925-143c890044f0)
 ![image](https://github.com/RANJEETH17/lifecyclemethods/assets/120718823/438746a7-02d5-4b05-a9e7-754ca12c8a79)
